@@ -14,3 +14,6 @@ C’est une zone grise et c’est pourquoi on se suppose souvent la légalité d
 
 Dans les faits, il est très peu probable encore de vous faire “attraper” car il est difficile de retracer l’identité du scraper. Cependant, il n’est pas improbable sur les sites qui ont l’habitude de se faire scraper que votre adresse IP se fasse bannir si elle est repérée comme ayant une activité frauduleuse. 
 
+**Mise en pratique**
+
+![image](https://user-images.githubusercontent.com/33523340/147674112-1bdd64df-ef0d-4070-8302-d982dcb4803e.png)
