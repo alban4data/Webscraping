@@ -19,3 +19,5 @@ Dans les faits, il est très peu probable encore de vous faire “attraper” ca
 <p align="center">
   <img src="/images/scraping_exemple.png" />
 </p>
+
+Dans ce cas pratique, nous extrairons de Tripadvisor les données qui nous semblent utiles pour réaliser de l'analyse de données. L'objectif  de ce tutoriel est de transformer des données du web non structurées en données tabulaires exploitables pour de l'analyse de données.
